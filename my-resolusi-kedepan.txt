@@ -3,4 +3,5 @@ Rencana Kedepan
   * biar lebih paham
   * mudah mengaplikasikannya
 - Mendalami MVC
+ * View
 - Belajar Laravel
