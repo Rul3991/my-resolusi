@@ -1,0 +1,5 @@
+Rencana Kedepan
+- Mendalami PHP dasar
+  * biar lebih paham
+- Mendalami MVC
+- Belajar Laravel
