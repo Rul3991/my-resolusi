@@ -3,4 +3,5 @@ Rencana Kedepan
   * biar lebih paham
 - Mendalami MVC
 * controller
+* model
 - Belajar Laravel
