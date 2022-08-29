@@ -1,8 +1,7 @@
 Rencana Kedepan
 - Mendalami PHP dasar
   * biar lebih paham
-  * mudah mengaplikasikannya
 - Mendalami MVC
- * View
- * model
+* controller
+* model
 - Belajar Laravel
